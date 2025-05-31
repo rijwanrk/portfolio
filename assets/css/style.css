@@ -417,8 +417,6 @@ a:hover{
     background-repeat: no-repeat;
     background-image: url(/assets/images/newone.png);
     background-color: transparent; 
-    pointer-events: none; /* optional: if you want it not to block clicks */
-    z-index: -1; /* optional: if it's a background effect */
 }
 
 @media (max-width: 576px) {
